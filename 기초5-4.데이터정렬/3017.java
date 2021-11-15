@@ -47,6 +47,7 @@ public class Main {
 	}
 
 }
+
 class Student {
     int id;
     int math;
