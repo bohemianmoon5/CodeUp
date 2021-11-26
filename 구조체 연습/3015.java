@@ -39,7 +39,6 @@ public class Main {
 	}
 
 }
-
 class db {
     String name;
     int score;
