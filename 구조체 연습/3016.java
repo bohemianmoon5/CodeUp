@@ -58,6 +58,7 @@ public class Main {
 	}
 
 }
+
 class studentInfo {
     String name;
     int score1;
