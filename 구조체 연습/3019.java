@@ -42,6 +42,7 @@ public class Main {
 	}
 
 }
+
 class Schedule {
     String title;
     String year;
